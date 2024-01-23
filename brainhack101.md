@@ -1,27 +1,34 @@
-### Installation and setup
-- [Set up a brainhack friendly computing environment]()
-- [An introduction to the terminal (Bash)](https://psy6983.brainhackmtl.org/modules/introduction_to_terminal/)
+### Installation and Setup
+- [Set up a brainhack friendly computing environment](https://school-brainhack.github.io/modules/installation/)
+- [An introduction to the terminal (Bash)](https://school-brainhack.github.io/modules/introduction_to_terminal/)
 
-### Introduction to python for data analysis
-- [Writing a script](https://psy6983.brainhackmtl.org/modules/python_scripts/)
-- [Data analysis with Python](https://psy6983.brainhackmtl.org/modules/python_data_analysis/)
-- [Data visualization in Python](https://psy6983.brainhackmtl.org/modules/python_visualization/)
+### Version Control Systems
+- [Using Git and Github](https://school-brainhack.github.io/modules/git_github/)
+- [Docker](https://school-brainhack.github.io/modules/containers/)
+- [Standards for Project Management and Organization](https://school-brainhack.github.io/modules/project_management/)
 
-### Version control systems
-- [Using Git and Github](https://psy6983.brainhackmtl.org/modules/git_github/)
-- [Data management with Datalad](https://psy6983.brainhackmtl.org/modules/datalad/)
+### Introduction to Python for Data Analysis
+- [Writing Scripts in Python](https://school-brainhack.github.io/modules/python_scripts/)
+- [Python for Data nalysis](https://school-brainhack.github.io/modules/python_data_analysis/)
+- [Data visualization in Python](https://school-brainhack.github.io/modules/python_visualization/)
 
-### Neuroimaging basics
-- [Brain imaging data standards and application](https://psy6983.brainhackmtl.org/modules/bids/)
-- [Open data resources](https://psy6983.brainhackmtl.org/modules/open_data/)
-- [Intro to EEG, MEG and intracranial EEG](https://www.youtube.com/watch?v=ANZLL3Vmgsk)
-- [For fMRI beginners: Andy’s Brain book!](https://andysbrainbook.readthedocs.io/en/latest/index.html)
-- [fMRI parcellation](https://psy6983.brainhackmtl.org/modules/fmri_parcellation)
-- [fMRI connectivity](https://psy6983.brainhackmtl.org/modules/fmri_connectivity/)
+### Data
+- [Open Data](https://school-brainhack.github.io/modules/open_data/)
+- [Neuroimaging Data and File Structures in Python](https://school-brainhack.github.io/modules/nibabel/)
+- [Research Data Management with Datalad](https://school-brainhack.github.io/modules/datalad/)
+- [Brain Imaging Data Structures](https://school-brainhack.github.io/modules/bids/)
 
-### Machine learning for neuroimaging
-- [Machine learning basics](https://psy6983.brainhackmtl.org/modules/machine_learning_basics/)
-- [Machine learning for neuroimaging](https://psy6983.brainhackmtl.org/modules/machine_learning_neuroimaging/)
-- [Applications of machine learning in neuroimaging](https://psy6983.brainhackmtl.org/modules/dl_for_neuroimaging/)
-- [Advanced machine learning for neuroimaging](https://www.youtube.com/watch?v=wIMJVgkQjNY)
-- [Deep Learning for Human Brain Mapping](https://brainhack101.github.io/IntroDL/)
+### Neuroimaging Basics and Key Concepts
+- [fMRI parcellation](https://school-brainhack.github.io/modules/fmri_parcellation/)
+- [fMRI connectivity](https://school-brainhack.github.io/modules/fmri_connectivity/)
+
+### Machine Learning for Neuroimaging
+- [Machine Learning Basics](https://school-brainhack.github.io/modules/machine_learning_basics/)
+- [Machine Learning Applications](https://school-brainhack.github.io/modules/machine_learning_neuroimaging/)
+
+### Deep Learning for Neuroimaging
+- [Deep Learning Basics](https://school-brainhack.github.io/modules/deep_learning_intro/)
+- [Deep Learning Applications](https://school-brainhack.github.io/modules/dl_for_neuroimaging/)
+
+### Advanced Programming
+- [Software Testing and Continuous Integration](https://school-brainhack.github.io/modules/testing/)
