@@ -1,6 +1,6 @@
 # TrainTrack 2024
 
-Welcome to our BrainHack Vanderbilt 2024! Below you will find the schedule and the relevant tutorial documents for both the Neuro Track and the Programming Track.
+Welcome to BrainHack Vanderbilt 2024! Below you will find the schedule and the relevant tutorial documents for both the Neuro Track and the Programming Track.
 
 | Neuro Track | Programming Track |
 |-------------|-------------------|
