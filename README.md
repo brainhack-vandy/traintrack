@@ -1,3 +1,10 @@
+# TrainTrack 2025
+| Workshops |
+|-------------|
+| Exploratory Data Analysis <br> [Slides](https://github.com/brainhack-vandy/brainhack-eda) and [Recording](https://youtu.be/Mh_zPJueUkA) <br> _Instructor: Juan Gannon_ |
+| NiiVue Visualization <br> [Slides](https://github.com/brainhack-vandy/traintrack/blob/main/NiiVue%20Visualization.pptx) and [Recording](https://youtu.be/sa59OLr6FMc) <br> _Instructor: Chris Rorden_ |
+| Getting Started With Latest ML Approaches: EEG-to-fMRI Translator <br> [GitHub Repo](https://github.com/brainhack-vandy/how-to-start-latest-ml-approaches) , [Recording](https://youtu.be/86r-DtIQulY) <br> _Instructor: Yamin Li_ |
+
 # TrainTrack 2024
 
 Welcome to BrainHack Vanderbilt 2024! Below you will find the schedule and the relevant tutorial documents for both the Neuro Track and the Programming Track.
